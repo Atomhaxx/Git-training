@@ -1,5 +1,6 @@
 # SDET Learning Playground: Lesson 5 - SQL Database Validation for QA
 
+>>> DANI VERZIOJA: Ez a sor a konfliktus teszteléséhez készült! (Dani modositasa) <<<
 In modern automation (e.g. REST Assured, Selenide, Playwright E2E), testing isn't just about the UI or API response. You frequently need to query the database directly (via JDBC/SQL) to verify that transactions or actions were correctly persisted.
 
 This guide explains the most critical SQL concepts for QA Engineers, breaks down common interview traps, and provides practical validation queries.
